@@ -1,2 +1,39 @@
-# Library-data-management-system
-Library Management System manages books and user records in one place It stores details like book name, author, ID, and availability You can add, update, delete, and search books It handles book issue and return operations It tracks borrowing history of users It reduces manual work and improves efficiency
+# 📚 Library Management System
+
+## 🚀 Overview
+This project manages library books and user records in one place.  
+It supports book issue, return tracking, and efficient data handling using a database.
+
+---
+
+## ✨ Features
+- Add, update, delete books
+- Search books by name or ID
+- Issue and return books
+- Track borrowing history
+- Store data using SQLite database
+- Simple and user-friendly interface
+
+---
+
+## ⚙️ Tech Stack
+- Python 🐍
+- SQLite 🗄️
+- Tkinter 🖥️
+
+---
+
+## 🧠 Highlights
+- Fast CRUD operations  
+- Lightweight database system  
+- Easy to use UI  
+- Suitable for small libraries  
+
+---
+
+## ▶️ How to Run
+1. Install Python  
+2. Open terminal in project folder  
+3. Run:
+   ```bash
+   python index.py
