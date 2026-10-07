@@ -1,0 +1,4 @@
+ttkbootstrap>=1.10.1
+pandas>=2.0.0
+matplotlib>=3.7.0
+Pillow>=9.5.0
